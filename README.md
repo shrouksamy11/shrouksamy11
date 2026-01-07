@@ -65,13 +65,12 @@ Building clean, responsive & interactive web interfaces using modern frontend to
 
 ---
 
-## 📬 Contact Me
+ ## 📬 Contact Me
 
-- 💼 LinkedIn: *add your link*
-- ✉️ Email: *add your email*
+- 💼 LinkedIn: [linkedin.com/in/shrouksamy](https://www.linkedin.com/in/shrouksamy)
+- ✉️ Email: [samyshrouk104@gmail.com](mailto:samyshrouk104@gmail.com)
 
 ---
-
 <div align="center">
 ✨ *"Code. Design. Improve. Repeat."* ✨
 </div>
