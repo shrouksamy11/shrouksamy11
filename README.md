@@ -6,7 +6,7 @@
   <p>
     <a href="https://www.linkedin.com/in/shrouksamy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:samyshrouk104@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-    <img src="https://komarev.com/ghpvc/?username=shrouk-samy&label=Profile%20Views&color=blue&style=flat" />
+ 
   </p>
 
 ---
